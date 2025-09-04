@@ -1,5 +1,6 @@
 ### macOS ###
 # General
+Test/
 .DS_Store
 .AppleDouble
 .LSOverride
